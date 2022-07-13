@@ -942,11 +942,11 @@ footer .follow{
     #shop-bag{
         display: none;
     }
-    #home {
-        height: 70vh;
-        padding: 0 80px;
-        background-position: top 30% right 30%;
-    }
+   #home {
+    height: 70vh;
+    padding: 0px 9px;
+    background-position: top 30% right 46%;
+}
     #home p{
         font-size: 15px;
     }
